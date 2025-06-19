@@ -1,4 +1,4 @@
-# 🏨 Hotel Sales Dashboard – Power BI Project'
+# 🏨 Hotel Sales Dashboard – Power BI Project
 
 
 ### 📌 Project Objective
