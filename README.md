@@ -72,61 +72,61 @@ Key tasks included:
 
 -  Unique Guests: 31K guests, peaking in 2018 at 22.5K.
 
- 2️⃣ Booking Page
+  2️⃣ Booking Page
 
- Focuses on booking behavior, cancellations, and guest types.
+  Focuses on booking behavior, cancellations, and guest types.
 
- 🔍 Key Insights
+  🔍 Key Insights
 
- - Booking Cancellations by Year:
+  - Booking Cancellations by Year:
 
     - Consistent 50% cancellation rate across 2014, 2018, and 2019.
 
- - Guest Lead Time:
+  - Guest Lead Time:
 
     - Most bookings are made just before check-in – indicates last-minute behavior.
 
- - Guest Table Details:
+  - Guest Table Details:
 
     - Majority of guests are first-time visitors, not repeated customers.
 
     - Most preferred meal plan: BB (Bed & Breakfast).
 
- 3️⃣ Reservation Page
+  3️⃣ Reservation Page
 
- Covers how reservations turn into revenue and how they vary monthly.
+  Covers how reservations turn into revenue and how they vary monthly.
 
- 🔍 Key Insights
+  🔍 Key Insights
  
- - Profit by Reservation Status:
+  - Profit by Reservation Status:
 
     - ✅ Most profit came from Check-Out bookings.
 
     - ❌ Minimal profit from Cancelled reservations.
 
- - Total Sales by Month:
+  - Total Sales by Month:
 
     - 🌟 Best month: October – ₹80M
 
     - 📉 Weakest month: May – ₹15M
 
-- Reservation Table:
+ - Reservation Table:
 
     - Room Type A was assigned more often and performed better financially.
 
- 4️⃣ Transaction Page
+  4️⃣ Transaction Page
 
- Analyzes detailed cost and revenue by room, meals, segment, and quarter.
+  Analyzes detailed cost and revenue by room, meals, segment, and quarter.
 
- 🔍 Key Insights
+  🔍 Key Insights
 
- - Profit by Quarter:
+  - Profit by Quarter:
 
     - 📈 Q3 – ₹20Q profit (peak quarter)
 
     - 📉 Q1 – ₹23T profit (lowest)
 
- - Room Revenue:
+  - Room Revenue:
 
     - Room Type A – ₹20M, outperforming Type B.
 
@@ -134,7 +134,7 @@ Key tasks included:
 
     - Most expensive: HB – ₹1600, then BB and FB.
 
- - Total Sales by Segment:
+  - Total Sales by Segment:
 
     - Top segment: Offline TA/TO – ₹92M
 
@@ -150,7 +150,10 @@ Key tasks included:
 - 🧑‍💼	Strengthen travel agent partnerships
 - 📉 Cancellation Rate	Implement flexible booking policies to reduce dropouts
 
+![Hotel Sales Analysis/1.png](https://github.com/dubeyshrutii/Hotel-Sales-Dashboard---Power-BI/blob/c61336457f5e3c51e0c9291144a2373d36b6a8a7/Hotel%20Sales%20Analysis/1.png)
 
+![Hotel Sales Analysis/2.png](https://github.com/dubeyshrutii/Hotel-Sales-Dashboard---Power-BI/blob/c61336457f5e3c51e0c9291144a2373d36b6a8a7/Hotel%20Sales%20Analysis/2.png)
 
+![Hotel Sales Analysis/3.png](https://github.com/dubeyshrutii/Hotel-Sales-Dashboard---Power-BI/blob/c61336457f5e3c51e0c9291144a2373d36b6a8a7/Hotel%20Sales%20Analysis/3.png)
 
- ![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Call-Center-Trend-Analysis---PowerBI/blob/master/assets/Screenshot%20(25).png?raw=true)
+![Hotel Sales Analysis/4.png](https://github.com/dubeyshrutii/Hotel-Sales-Dashboard---Power-BI/blob/c61336457f5e3c51e0c9291144a2373d36b6a8a7/Hotel%20Sales%20Analysis/4.png)
